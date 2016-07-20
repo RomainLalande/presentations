@@ -84,7 +84,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/fablab.jpg)
 
 > Avec à la fois un coté local et un coté global, les fablabs, sont un réseau de lieu de fabrication numérique qui démocratise l'accès à des machines pilotées par ordinateurs et permet à n'importe qui de tester son idées et d'apprendre à utiliser ces nouveaux outils de production, mais aussi de rencontrer des pairs et mutualiser des compétences.
-Source: ??
+Source: [Rory Hyde - CC By SA](https://www.flickr.com/photos/roryrory/4941788744/)
 
 ## Des exemples : Action collective
 
