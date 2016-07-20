@@ -16,11 +16,12 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 > Qui connait le couchsurfing ?
 > Qui a déja utilisé Wikipédia ?
 
+L’Économie Collaborative est souvent définie comme le fait d’utiliser le numérique pour exprimer un besoin et le mettre en relation avec ceux qui peuvent y répondre. Elle revendique imaginer de nouveaux modèles économiques de "pairs à pairs" via des modes d’organisation plus horizontaux en offrant la capacité à chacun de devenir « producteur » ou « offreur » par la mise en lien direct avec les autres. Elle est pourtant plus ancienne que le numérique, à l’image des AMAPs qui se sont développées il y a bien longtemps et créaient déjà de la valeur... en commun !
 
 
 ## Une vidéo d'explication simple et efficace
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/BbJvBFNggiY" frameborder="0" allowfullscreen></iframe>
+[![Video](http://img.youtube.com/vi/BbJvBFNggiY/0.jpg)](http://www.youtube.com/watch?v=BbJvBFNggiY)
 
 > L'économie collaborative englobe de nombreux aspects et usages
 > Voici 3 minutes d'explications avec beaucoup de pragmatisme et un peu d'auto-dérision. 
